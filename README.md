@@ -1,7 +1,7 @@
 # Github Explorer
 
 <div align="center">
-  <img alt="Github Explorer" title="Github Explorer" src="https://user-images.githubusercontent.com/19844596/160872755-09b5ddc2-1aa4-4726-8b2d-85a3fe480701.png" />
+  <img alt="Github Explorer" title="Github Explorer" src="https://user-images.githubusercontent.com/19844596/160924777-4c69fa83-c5a1-43b3-92fb-17724bfe706b.png" />
 </div>
 
 ## 📚 Sobre
@@ -37,6 +37,6 @@ $ yarn start
 
 ```
 
-## Live
+## 🎥 Live
 
 * [Github Explorer](https://githubexplorer-eta.vercel.app/)
