@@ -1,8 +1,6 @@
 # Github Explorer
 
-<div align="center">
-  <img alt="Github Explorer" title="Github Explorer" src="https://user-images.githubusercontent.com/19844596/160924777-4c69fa83-c5a1-43b3-92fb-17724bfe706b.png" />
-</div>
+![gitexplorer](https://user-images.githubusercontent.com/19844596/160929925-58ce0aa3-23d7-4383-873d-21ecfd1ed618.png)
 
 ## 📚 Sobre
 
