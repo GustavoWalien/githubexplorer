@@ -36,7 +36,6 @@ $ yarn
 $ yarn start
 
 ```
-
 ## 🎥 Live
 
 * [Github Explorer](https://githubexplorer-eta.vercel.app/)
