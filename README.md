@@ -34,6 +34,6 @@ $ yarn
 $ yarn start
 
 ```
-## 🎥 Live
+## 🔗 Link
 
-* [Github Explorer](https://githubexplorer-eta.vercel.app/)
+* [Projeto on-line](https://githubexplorer-eta.vercel.app/)
